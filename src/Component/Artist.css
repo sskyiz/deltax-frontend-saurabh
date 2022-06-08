@@ -1,0 +1,24 @@
+table {
+    border: 1px solid black;
+    width: 100%;
+
+}
+th {
+    background-color: rgb(65, 65, 65);
+    height: 2rem;
+    font-size: large;
+    color: white;
+}
+td {
+    text-align: center;
+}
+
+button {
+    padding: .5rem;
+    margin-top: 2rem;
+    border: none;
+    background-color: rgb(65, 65, 65);
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+}

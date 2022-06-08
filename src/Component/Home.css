@@ -1,0 +1,7 @@
+.homePage{
+    display: flex;
+    flex-direction: column;
+}
+.homePage span {
+    color: rgb(29, 197, 29);
+}

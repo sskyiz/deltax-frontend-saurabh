@@ -1,0 +1,8 @@
+.addArtist {
+    display: flex;
+    flex-direction: column;
+}
+
+.addArtist input {
+    margin: 1rem 0 1rem 0;
+}

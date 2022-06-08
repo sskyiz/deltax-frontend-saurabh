@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    height: 3rem;
+    width: 100%;
+}
+.navItems {
+    margin-top: 1rem;
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+.navItems:hover {
+    color: rgb(65, 65, 65);
+}
